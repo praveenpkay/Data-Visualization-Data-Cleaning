@@ -1,4 +1,4 @@
-Dataset: https://lnkd.in/gDJQSMz4
+Dataset: https://lnkd.in/gDJQSMz
 Dashboard: https://lnkd.in/gvz2BjU
 
 There's something about cleaning data that is oddly satisfying.
